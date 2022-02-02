@@ -25,3 +25,4 @@ Learning JavaScript
 
 1. [中学生如何学计算机](https://mp.weixin.qq.com/s/tRkzZYquASSXTN-Q6sEeYA)
 2. Draw function with Worlfram Alpha: https://www.wolframalpha.com/input?i=y+%3D+2x+%2B+1
+3. [清华大学计算机系课程资料](https://github.com/PKUanonym/REKCARC-TSC-UHT)
