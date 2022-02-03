@@ -26,3 +26,28 @@ Learning JavaScript
 1. [文章：中学生如何学计算机](https://mp.weixin.qq.com/s/tRkzZYquASSXTN-Q6sEeYA)
 2. Draw function with Worlfram Alpha: https://www.wolframalpha.com/input?i=y+%3D+2x+%2B+1
 3. [清华大学计算机系课程资料](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+
+
+## Lesson 2 第二课
+
+In this lesson, we learn about JavaScript basics and play the game with JavaScript. 
+
+### Resources 资源
+
+在线学习 JavaScript
+1. https://www.liaoxuefeng.com/wiki/1022910821149312
+2. https://zh.javascript.info/
+3. https://www.runoob.com/js/js-tutorial.html
+
+JavaScript 游戏编程
+1. https://developer.mozilla.org/en-US/docs/Games
+2. https://warriorjs.com/  ( https://github.com/olistic/warriorjs )
+3. https://phaser.io/phaser3
+
+### Homework 作业
+
+1. 自学“快速入门”的剩余章节：https://www.liaoxuefeng.com/wiki/1022910821149312/1023020925712064
+2. 通过 JavaScript 完成游戏：https://warriorjs.com/  没有关卡要求
+3. 【寒假完成】到图书馆借3~5本感兴趣的计算机书籍
+
+
