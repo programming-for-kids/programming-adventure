@@ -34,12 +34,12 @@ In this lesson, we learn about JavaScript basics and play the game with JavaScri
 
 ### Resources 资源
 
-在线学习 JavaScript
+Learning JavaScript
 1. https://www.liaoxuefeng.com/wiki/1022910821149312
 2. https://zh.javascript.info/
 3. https://www.runoob.com/js/js-tutorial.html
 
-JavaScript 游戏编程
+JavaScript Game Developmemnt 游戏编程
 1. https://developer.mozilla.org/en-US/docs/Games
 2. https://warriorjs.com/  ( https://github.com/olistic/warriorjs )
 3. https://phaser.io/phaser3
