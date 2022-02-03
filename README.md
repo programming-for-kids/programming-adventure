@@ -49,14 +49,14 @@ JavaScript Game Developmemnt 游戏编程
 
 Part 1:
 
-1. 自学[“快速入门”的剩余章节)(https://www.liaoxuefeng.com/wiki/1022910821149312/1023020925712064)
-2. 通过 JavaScript 完成游戏：https://warriorjs.com/  没有关卡要求
+1. 自学[“快速入门”的剩余章节](https://www.liaoxuefeng.com/wiki/1022910821149312/1023020925712064)
+2. 通过 JavaScript 完成游戏，没有关卡要求：https://warriorjs.com/
 3. 【寒假完成】到图书馆借3~5本感兴趣的计算机书籍
 
 Part 2:
 
 1. 自学[“函数”章节](https://www.liaoxuefeng.com/wiki/1022910821149312/1023021053637728)
-2. 继续用 JavaScript 完成游戏：https://warriorjs.com/  完成至少第4关
+2. 继续用 JavaScript 完成游戏，完成至少第4关：https://warriorjs.com/
 
 
 ### Reference 参考资料
