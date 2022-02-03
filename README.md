@@ -50,4 +50,7 @@ JavaScript Game Developmemnt 游戏编程
 2. 通过 JavaScript 完成游戏：https://warriorjs.com/  没有关卡要求
 3. 【寒假完成】到图书馆借3~5本感兴趣的计算机书籍
 
+### Reference 参考资料
 
+1. [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript)
+2. [TC39: ECMAScript Proposals](https://github.com/tc39/proposals)
