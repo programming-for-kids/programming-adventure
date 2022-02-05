@@ -89,8 +89,14 @@ Read **Baby Step** source code, and extend it. Build your own tower now!
 
 ### ⚔ Homework 作业
 
+Part 1:
+
 1. 自学[“面向对象编程”章节](https://www.liaoxuefeng.com/wiki/1022910821149312/1072866346339712)
-2. 在 VS Code 里用 JavaScript 玩 WarriorJS 游戏，完成 Baby Step Tower
+2. 继续用 JavaScript 玩 WarriorJS 游戏，完成至少第6关：https://warriorjs.com/
+
+Part 2:
+
+1. 在 VS Code 里用 JavaScript 玩 WarriorJS 游戏，完成 Baby Step Tower
 
 ### 🚀 Reference 参考资料
 
