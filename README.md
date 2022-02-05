@@ -63,3 +63,33 @@ Part 2:
 
 1. [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript)
 2. [TC39: ECMAScript Proposals](https://github.com/tc39/proposals)
+
+
+## Lesson 3 第三课
+
+In this lesson, we continue to learn about JavaScript with WarriorJS.
+
+### Resources 资源
+
+Part 1: Play
+
+1. Play WarriorJS: https://warriorjs.com/
+2. Play with Visual Studio Code: https://github.com/olistic/warriorjs
+3. Read Docs: https://warrior.js.org/docs/en/player/overview
+
+Part 2: Build
+
+Extend **Baby Step** and build your own tower
+
+1. Build Tower: https://github.com/olistic/warriorjs/blob/master/packages/warriorjs-tower-baby-steps/README.md 
+2. Read Docs: https://warrior.js.org/docs/en/maker/introduction
+
+### Homework 作业
+
+1. 自学[“面向对象编程”章节](https://www.liaoxuefeng.com/wiki/1022910821149312/1023022126220448)
+2. 在 VS Code 里用 JavaScript 玩 WarriorJS 游戏，完成 Baby Step Tower
+
+### 参考资料
+
+1. [Visual Studio Code](https://code.visualstudio.com/)
+
