@@ -99,6 +99,12 @@ Part 2:
 1. 在 VS Code 里用 JavaScript 玩 WarriorJS 游戏，完成 Baby Step Tower
 2. 学习 Linux 操作系统：https://www.runoob.com/linux/linux-intro.html
 
+Part 3:
+
+1. 阅读 [Tips & Tricks 文档](https://warrior.js.org/docs/en/player/general-tips)
+2. 继续用 JavaScript 玩 WarriorJS 游戏，完成第9关：https://warriorjs.com/
+
+
 ### 🚀 Reference 参考资料
 
 1. [Visual Studio Code](https://code.visualstudio.com/)
