@@ -2,7 +2,7 @@
 Programming Advanture for Kids
 
 
-## 📚 Lesson 1 第一课
+## 📚 Lesson 1 第一课: Getting Started 开始冒险
 
 In this lesson, we learn about why we need to learn programming, and how to start the adventure. 
 
@@ -31,7 +31,7 @@ Learning JavaScript
 4. [Awesome Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids)
 
 
-## 📚 Lesson 2 第二课
+## 📚 Lesson 2 第二课: JavaScript and Game
 
 In this lesson, we learn about JavaScript basics and play the game with JavaScript. 
 
@@ -66,7 +66,7 @@ Part 2:
 2. [TC39: ECMAScript Proposals](https://github.com/tc39/proposals)
 
 
-## 📚 Lesson 3 第三课
+## 📚 Lesson 3 第三课: WarriorJS
 
 In this lesson, we continue to read and write JavaScript with WarriorJS.
 
