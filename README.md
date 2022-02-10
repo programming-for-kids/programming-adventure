@@ -104,6 +104,11 @@ Part 3:
 1. 阅读 [Tips & Tricks 文档](https://warrior.js.org/docs/en/player/general-tips)
 2. 继续用 JavaScript 玩 WarriorJS 游戏，完成第9关：https://warriorjs.com/
 
+Part 4:
+
+1. 阅读 [Maker 文档](https://warrior.js.org/docs/en/maker/introduction)
+2. 继续用 JavaScript 玩 WarriorJS 游戏，完成第9关：https://warriorjs.com/
+
 
 ### 🚀 Reference 参考资料
 
