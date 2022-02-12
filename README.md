@@ -109,6 +109,12 @@ Part 4:
 1. 阅读 [Maker 文档](https://warrior.js.org/docs/en/maker/introduction)
 2. 继续用 JavaScript 玩 WarriorJS 游戏，完成第9关：https://warriorjs.com/
 
+Part 5:
+
+1. 阅读 [Maker 文档](https://warrior.js.org/docs/en/maker/introduction)
+2. 继续用 JavaScript 玩 [WarriorJS](https://warriorjs.com/ ) 游戏，完成 Baby Steps 第9关，并开始玩 Tick Tick Boom
+3. 阅读 Beginner 关卡现有的源代码，修改 Beginner 关卡的源代码，设计自己的游戏关卡
+
 
 ### 🚀 Reference 参考资料
 
