@@ -33,12 +33,11 @@ class Player {
 
     // 检测前方物体
     const feeling = warrior.feel(direction);
-    const hasUnit = !feeling.isEmpty();
-    const unit = hasUnit && feeling.getUnit();
-    const feltEnemy = unit && unit.isEnemy();
+    const feltUnit = !feeling.isEmpty() && feeling.getUnit();
+    const feltEnemy = feltUnit && feltUnit.isEnemy();
     const seenUnit = this.lookForward(warrior, direction);
     const sawEnemy = seenUnit && seenUnit.isEnemy();
-    const hasCaptive = unit && unit.isBound();
+    const hasCaptive = feltUnit && feltUnit.isBound();
     const hasWall = warrior.feel(direction).isWall();
 
     // 判断当前状态
