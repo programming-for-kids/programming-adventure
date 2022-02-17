@@ -9,11 +9,16 @@ class Player {
   }
 
   lookForward(warrior, direction) {
-    // 前方看得到的所有空间
+    // 第一步：返回前方看得到的所有空间
+    // 注意：这里 warrior.look() 返回的是一个数组
     const spaces = warrior.look(direction);
-    // 找到前方第一个上面有单位的空间
+    // 第二步：找到前方第一个上面有单位的空间：
+    // 关于 find() 的用法，可以看这个文档：https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find
     const spaceWithUnit = spaces.find(s => s.isUnit());
-    // 如果找到了，返回第一个单位
+    // 第三步：如果找到了，返回这个空间上的单位
+    // 【说明】注意这里的 && 的用法：只有左边条件为真时，才会执行右边的条件；
+    // 也就是说，如果没有找到有单位，那么返回的是 undefined；如果找到了，调用 getUnit() 返回单元
+    // Space API 的用法，可以查看文档：https://warrior.js.org/docs/en/player/space-api
     return spaceWithUnit && spaceWithUnit.getUnit(); 
   }
 
