@@ -127,6 +127,14 @@ Part 7:
 2. 阅读 Beginner 关卡现有的源代码，设计一个好玩的游戏关卡
 3. 阅读 `warriorjs-core` 代码，并做笔记
 
+### 🔥 项目 Project
+
+**DefenderJS**
+
+Based on WarriorJS, build a game that the player can create smart defenders that could prevent the warrior from climbing the stairs.
+
+- `Defender.js`: implement `playTurn` to prevent warrior from winning the game
+- The defender / commander could control other units to fight together against the warrior
 
 ### 🚀 Reference 参考资料
 
