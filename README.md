@@ -112,14 +112,20 @@ Part 4:
 Part 5:
 
 1. 阅读 [Maker 文档](https://warrior.js.org/docs/en/maker/introduction)
-2. 继续用 JavaScript 玩 [WarriorJS](https://warriorjs.com/ ) 游戏，完成 Baby Steps 第9关，并开始玩 Tick Tick Boom
+2. 继续用 JavaScript 玩 [WarriorJS](https://warriorjs.com/) 游戏，完成 Baby Steps 第9关，并开始玩 Tick Tick Boom
 3. 阅读 Beginner 关卡现有的源代码，修改 Beginner 关卡的源代码，设计自己的游戏关卡
 
 Part 6:
 
-1. 继续用 JavaScript 玩 [WarriorJS](https://warriorjs.com/ ) 游戏，完成 Baby Steps 第9关，并开始玩 Tick Tick Boom
+1. 继续用 JavaScript 玩 [WarriorJS](https://warriorjs.com/) 游戏，完成 Baby Steps 第9关，并开始玩 Tick Tick Boom
 2. 阅读 Beginner 关卡现有的源代码，修改 Beginner 关卡的源代码，设计自己的游戏关卡
 3. 阅读 `warriorjs-units` 和 `warriorjs-abilities` 代码，设计自己的单位和能力
+
+Part 7:
+
+1. 继续用 JavaScript 玩 [WarriorJS](https://warriorjs.com/) 游戏，玩 Tick Tick Boom（1~2关，或1~3关）
+2. 阅读 Beginner 关卡现有的源代码，设计一个好玩的游戏关卡
+3. 阅读 `warriorjs-core` 代码，并做笔记
 
 
 ### 🚀 Reference 参考资料
@@ -127,4 +133,9 @@ Part 6:
 1. [Visual Studio Code](https://code.visualstudio.com/)
 2. Node.js: https://nodejs.org/en/
 3. Install Node.js and NPM: http://nvm.sh/
+
+
+## 📚 Lesson 4 第四课: Phaser3 游戏编程
+
+
 
