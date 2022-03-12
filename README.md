@@ -127,6 +127,13 @@ Part 7:
 2. 阅读 Beginner 关卡现有的源代码，设计一个好玩的游戏关卡
 3. 阅读 `warriorjs-core` 代码，并[做笔记](https://github.com/programming-for-kids/warriorjs/blob/master/docs/README.md)
 
+Part 8:
+
+1. 阅读 `warriorjs-core` 代码，并[做笔记](https://github.com/programming-for-kids/warriorjs/blob/master/docs/README.md)
+2. 阅读 Beginner 关卡现有的源代码，设计一个好玩的游戏关卡
+3. 继续用 JavaScript 玩 [WarriorJS](https://warriorjs.com/) 游戏，玩 Tick Tick Boom（1-2关，或1-3关）
+4. 添加 Defender 的实现代码
+
 ### 🔥 项目 Project
 
 **DefenderJS**
