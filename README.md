@@ -179,7 +179,14 @@ Part 2:
 Part 3:
 1. 修改[Dungeon Dash](https://github.com/mipearson/dungeondash)
 
+### 🔥 项目 Project
 
+Buid your own game with Phaser3
+
+
+### 🚀 Reference 参考资料
+
+1. Git: https://git-scm.com/
 
 
 
