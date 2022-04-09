@@ -158,8 +158,10 @@ In this lesson, we learn how to build games with JavaScript and Phaser3.
 
 **Tutorials**
 
-1. Your First Game with Phaser3: https://phaser.io/tutorials/making-your-first-phaser-3-game-chinese/index
-2. Tutorials: https://phaser.io/learn
+1. Build Your First Game with Phaser3: https://phaser.io/tutorials/making-your-first-phaser-3-game-chinese/index
+2. Create the Dino Chrome Game: https://phaser.io/news/2021/04/create-the-dino-chrome-game
+
+More Tutorials: https://phaser.io/learn
 
 **Examples**
 
@@ -171,7 +173,9 @@ Part 1:
 1. 修改[第一个教程](https://phaser.io/tutorials/making-your-first-phaser-3-game-chinese/index)
 
 Part 2:
-1. 
+1. 修改[第二个教程](https://phaser.io/news/2021/04/create-the-dino-chrome-game)
+
+
 
 
 
