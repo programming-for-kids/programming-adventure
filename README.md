@@ -168,7 +168,7 @@ In this lesson, we learn how to build games with JavaScript and Phaser3.
 ### ⚔ Homework 作业
 
 Part 1:
-1. 修改第一个教程
+1. 修改[第一个教程](https://phaser.io/tutorials/making-your-first-phaser-3-game-chinese/index)
 
 Part 2:
 1. 
