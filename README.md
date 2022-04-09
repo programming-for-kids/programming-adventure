@@ -158,8 +158,8 @@ In this lesson, we learn how to build games with JavaScript and Phaser3.
 
 **Tutorials**
 
-1. Build Your First Game with Phaser3: https://phaser.io/tutorials/making-your-first-phaser-3-game-chinese/index
-2. Create the Dino Chrome Game: https://phaser.io/news/2021/04/create-the-dino-chrome-game
+1. [Your First Game with Phaser3](https://phaser.io/tutorials/making-your-first-phaser-3-game-chinese/index)
+2. [Dino Chrome Game](https://phaser.io/news/2021/04/create-the-dino-chrome-game) 
 3. [Dungeon Dash](https://phaser.io/news/2021/07/simple-fog-of-war-effect-for-a-roguelike) / [demo](https://dungeon-dash.surge.sh/)
 
 More Tutorials: https://phaser.io/learn
