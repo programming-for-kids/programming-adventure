@@ -170,10 +170,10 @@ More Tutorials: https://phaser.io/learn
 ### ⚔ Homework 作业
 
 Part 1:
-1. 修改[第一个教程](https://phaser.io/tutorials/making-your-first-phaser-3-game-chinese/index)
+1. 修改[Your First Game with Phaser3](https://phaser.io/tutorials/making-your-first-phaser-3-game-chinese/index)
 
 Part 2:
-1. 修改[第二个教程](https://phaser.io/news/2021/04/create-the-dino-chrome-game)
+1. 修改[Dino Chrome Game](https://phaser.io/news/2021/04/create-the-dino-chrome-game)
 
 
 
