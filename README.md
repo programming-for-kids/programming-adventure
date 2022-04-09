@@ -152,5 +152,28 @@ Based on WarriorJS, build a game that the player can create smart defenders that
 
 ## 📚 Lesson 4 第四课: Phaser3 游戏编程
 
+In this lesson, we learn how to build games with JavaScript and Phaser3.
+
+### 💡 Resources 资源
+
+**Tutorials**
+
+1. Your First Game with Phaser3: https://phaser.io/tutorials/making-your-first-phaser-3-game-chinese/index
+2. Tutorials: https://phaser.io/news/category/tutorial
+
+**Examples**
+
+1. NEAR Lands: https://lands.near.page/
+
+### ⚔ Homework 作业
+
+Part 1:
+1. 修改第一个教程
+
+Part 2:
+1. 
+
+
+
 
 
